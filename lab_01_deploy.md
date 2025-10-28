@@ -179,3 +179,4 @@ Una vez familiarizado con el portal:
 
 *Instructor: Roberto Corella*  
 *LinkedIn: https://www.linkedin.com/in/robertocorella/*
+*Fecha: Octubre 2025*
