@@ -1,4 +1,4 @@
-# Lab04 - Usos de Copilot en Business Central
+# Lab 04 - Usos de Copilot en Business Central
 
 ## Objetivo
 En este laboratorio explorarás las diferentes funcionalidades de Copilot integradas nativamente en Business Central. Aprenderás a utilizar análisis de datos, chat conversacional, generación de configuraciones y automatización de tareas mediante prompts en lenguaje natural.
