@@ -91,4 +91,9 @@ Si encuentras problemas:
 
 **Siguiente paso:** Experimenta con diferentes tipos de consultas y explora las posibilidades de la IA en otros módulos de Business Central.
 
+---
+
+*Instructor: Roberto Corella*  
+*LinkedIn: https://www.linkedin.com/in/robertocorella/*
+*Fecha: Octubre 2025*
 
