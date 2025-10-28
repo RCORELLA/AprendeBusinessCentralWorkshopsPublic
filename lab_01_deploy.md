@@ -56,23 +56,99 @@ En el panel central verás la sección **"Recent resources"** que muestra:
 3. **customer360** (Project Default - eastus)
    - Proyecto por defecto con recurso AI Foundry
 
-4. **firstProject** (Project Default - eastus)
-   - Proyecto rcb2025 (AI Foundry)
-
-5. **ai-rcorellai7341728626634685** (AI Foundry - eastus)
-   - Recurso AI Foundry adicional
-
 ---
 
-## Paso 4: Crear Nuevos Recursos (Opcional)
+## Paso 4: Crear un Nuevo Proyecto
 
-Si necesitas crear un nuevo recurso:
+### 4.1. Iniciar la Creación
 
-1. Haz clic en el botón **"+ Create new"**
-2. Selecciona el tipo de recurso que deseas crear
-3. Sigue el asistente de configuración
+1. En el panel principal, haz clic en el botón **"+ Create new"**
+2. Selecciona **"Project"** (Proyecto)
 
-También puedes ver todos tus recursos haciendo clic en **"All resources"**
+### 4.2. Configuración Básica del Proyecto
+
+En la pantalla "Create a project", completa los siguientes campos:
+
+<img width="739" height="759" alt="image" src="https://github.com/user-attachments/assets/28425ec1-bcce-4c7d-a353-9b99f2fecfd7" />
+
+
+#### **Project Name** (Nombre del Proyecto) *
+- Introduce un nombre descriptivo para tu proyecto
+- Ejemplo: `Demo-Companial`
+
+### 4.3. Opciones Avanzadas
+
+Expande la sección **"Advanced options"** para configurar:
+
+#### **Azure AI Foundry resource** *
+- Nombre del recurso de Azure AI Foundry
+- Ejemplo: `demo-companial-resource`
+
+#### **Subscription** *
+- Selecciona tu suscripción de Azure
+- Ejemplo: `rcorella`
+- Si necesitas crear una nueva: haz clic en **"Create a new subscription"** 🔗
+
+#### **Resource group** *
+- Selecciona un grupo de recursos existente o crea uno nuevo
+- Ejemplo: `(new) rg-rcorella-3874`
+- Para crear un nuevo grupo:
+  1. Escribe el nombre del nuevo grupo
+  2. Haz clic en **"Create new resource group"**
+  3. Introduce el nombre (ej: `Demo-Companial`)
+  4. Haz clic en **"OK"**
+
+#### **Public network access**
+- Estado: **Enabled** (Habilitado por defecto)
+- Permite el acceso desde internet público
+
+#### **Region** *
+- Selecciona la región donde se alojará el proyecto
+- Ejemplo: `Sweden Central`
+- Otras opciones comunes: East US, West Europe, etc.
+
+### 4.4. Políticas y Seguridad
+
+En la parte inferior verás:
+- Enlace a políticas de datos, privacidad y seguridad
+- **"Configure in Azure Portal"** 🔗 - Para configuración avanzada
+
+### 4.5. Crear el Proyecto
+
+1. Revisa que todos los campos obligatorios (*) estén completos
+2. Haz clic en el botón azul **"Create"**
+3. Alternativamente, haz clic en **"Cancel"** para cancelar
+
+### 4.6. Proceso de Configuración
+
+Una vez iniciada la creación, verás una pantalla con:
+
+- **"Welcome to Azure AI Foundry"**
+- **"Jumpstart your AI journey"** - Descripción de las capacidades
+  - Buscar modelos ideales de OpenAI, Mistral, Meta y otros proveedores
+  - Vincular, testear y personalizar dentro de un proyecto
+  - Botón **"Explore models"** para comenzar
+
+
+
+## Paso 5: Confirmar los EndPoints
+
+<img width="991" height="886" alt="image" src="https://github.com/user-attachments/assets/1799a091-2ea3-47e9-b7cf-d7c87d4b0f3c" />
+
+## Paso 6: Elegir el modelo
+
+<img width="1591" height="753" alt="image" src="https://github.com/user-attachments/assets/34aa5e94-d0d9-4ab2-8c91-ac75addd3415" />
+
+## Paso 7: Desplegar en una webApp
+
+<img width="1154" height="917" alt="image" src="https://github.com/user-attachments/assets/63300be2-abe7-442b-ab14-9da94675749b" />
+
+Una vez desplegada, podrás acceder a la webApp
+
+<img width="670" height="909" alt="image" src="https://github.com/user-attachments/assets/6ae73a2d-5e78-498a-85ad-a9ad98f34319" />
+
+
+<img width="1182" height="711" alt="image" src="https://github.com/user-attachments/assets/d5efc74d-87df-4f25-99ec-1be2fd1e5ebd" />
 
 ---
 
