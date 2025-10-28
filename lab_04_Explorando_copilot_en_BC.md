@@ -197,3 +197,9 @@ Una vez domines los ejercicios anteriores, prueba estos prompts:
 ---
 
 **Siguiente paso:** Experimenta con tus propios prompts y descubre nuevas formas de aprovechar Copilot en tu trabajo diario con Business Central.
+
+
+*Instructor: Roberto Corella*  
+*LinkedIn: https://www.linkedin.com/in/robertocorella/*
+
+*Fecha: Octubre 2025*
