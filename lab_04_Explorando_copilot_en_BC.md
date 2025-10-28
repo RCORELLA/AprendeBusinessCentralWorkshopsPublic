@@ -27,7 +27,7 @@ Mostrar las salidas de productos por mes y agrupadas por producto
 ```
 
 **Resultado esperado:**
-- Una tabla o gráfico mostrando los productos en filas
+- Una tabla mostrando los productos en filas
 - Meses en columnas
 - Cantidades de salida como valores
 
@@ -59,7 +59,7 @@ El chat de Copilot permite realizar consultas en lenguaje natural sobre los dato
 1. Abre el **Chat de Copilot** desde cualquier página (icono de Copilot en la esquina superior)
 2. Introduce el siguiente prompt en inglés:
 ```
-could you give me 3 last invoices from Adatum Corporation
+Could you give me last 3 invoices from Adatum Corporation?
 ```
 
 **Resultado esperado:**
@@ -144,7 +144,7 @@ Repíteme el mismo pedido que el mes pasado
 ### Para Análisis de Datos
 - ✅ Sé específico con las agrupaciones que deseas
 - ✅ Menciona el período de tiempo si es relevante
-- ✅ Especifica si quieres gráficos o tablas
+
 
 ### Para Chat Conversacional
 - ✅ Utiliza frases completas y claras
@@ -154,7 +154,7 @@ Repíteme el mismo pedido que el mes pasado
 ### Para Automatización
 - ✅ Verifica siempre los datos generados automáticamente
 - ✅ Ajusta configuraciones según tus necesidades específicas
-- ✅ Guarda como plantillas las configuraciones exitosas
+
 
 ## Casos de Uso Adicionales para Explorar
 
