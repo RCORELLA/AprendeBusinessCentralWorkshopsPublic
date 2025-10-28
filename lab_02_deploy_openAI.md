@@ -231,3 +231,4 @@ En el siguiente lab, aprenderás a:
 
 *Instructor: Roberto Corella*  
 *LinkedIn: https://www.linkedin.com/in/robertocorella/*
+*Fecha: Octubre 2025*
