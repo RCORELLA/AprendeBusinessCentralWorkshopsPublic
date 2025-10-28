@@ -39,7 +39,9 @@ Una vez instalada la extensión, necesitas configurar los parámetros de conexi�
    - **Deployment Name**: Nombre del modelo desplegado (ej: gpt-4, gpt-35-turbo)
    - Cualquier otro parámetro específico de configuración
 
-3. Guarda la configuración
+<img width="1870" height="495" alt="image" src="https://github.com/user-attachments/assets/31b28915-75f1-45c3-a9a2-dc51dc947ba9" />
+
+
 
 > ⚠️ **Importante:** Asegúrate de que todos los datos coinciden exactamente con los de tu despliegue de Azure OpenAI del Lab02.
 
@@ -50,17 +52,19 @@ Ahora es el momento de verificar que todo funciona correctamente:
 1. Ve a la **lista de clientes** (Customers)
 2. Abre la **ficha de cualquier cliente** (Customer Card)
 3. Localiza el botón de **Copilot** llamado **ABC Ask me Anything**
-4. Haz clic en el botón
-5. Realiza una consulta de prueba, por ejemplo:
-   - "¿Cuál es el saldo de este cliente?"
-   - "Muéstrame las últimas facturas"
-   - "¿Tiene pedidos pendientes?"
+   <img width="782" height="403" alt="image" src="https://github.com/user-attachments/assets/50b0e0a5-e860-4ca2-b9ab-7ae02c4ee2fb" />
+
+5. Haz clic en el botón
+6. Realiza una consulta de prueba, por ejemplo:
+   - "¿Cómo puedo hacer una factura en Business Central?"
+   - "Me explicas las dimensiones de Business Central"
+
 
 ## Verificación de Éxito
 
 ✅ Si todo está configurado correctamente, deberías:
 - Ver el panel de Copilot abrirse al hacer clic en el botón
-- Recibir respuestas coherentes basadas en los datos del cliente
+- Recibir respuestas coherentes basadas en Business Central
 - No ver mensajes de error de conexión
 
 ## Troubleshooting
@@ -86,3 +90,5 @@ Si encuentras problemas:
 ---
 
 **Siguiente paso:** Experimenta con diferentes tipos de consultas y explora las posibilidades de la IA en otros módulos de Business Central.
+
+
